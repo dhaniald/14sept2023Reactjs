@@ -1,0 +1,38 @@
+        header{
+          width: 980px;
+          height: 140px;
+          background-color: #0D7962;
+          color:white;
+          margin: auto;
+          margin-bottom: 10px;
+        }
+        main{
+          width: 980px;
+          height: 450px;
+          color:white;      
+          margin: auto;
+          margin-bottom: 10px;
+          }
+          aside{
+            width: 270px;
+            height: 450px;
+            color:white;
+            background-color: #0D7962;
+            float: left;
+            margin-right: 20px;
+
+          }
+          section{
+            width: 690px;  
+            height: 450px;
+            color:white;
+            background-color: #0D7962;
+            float: left;
+          }
+        footer{
+          margin: auto;
+          width: 980px;
+          height: 70px;
+          background-color: #0D7962;
+          color:white;
+        }
